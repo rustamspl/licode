@@ -6,7 +6,7 @@ http://www.lynckia.com/licode
 ## INSTALL on RHEL6 x64:
 
 - open TCP,UDP ports on iptables
-- scripts/installRHEL6x64Deps.sh
+- ./licode/scripts/installRHEL6x64Deps.sh
 - ./licode/scripts/installErizo.sh
 - ./licode/scripts/installNuve.sh
 - ./licode/scripts/installBasicExample.sh
