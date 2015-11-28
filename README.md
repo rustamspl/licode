@@ -3,6 +3,14 @@
 More info at:
 http://www.lynckia.com/licode
 
+## INSTALL on RHEL6 x64:
+
+scripts/installRHEL6x64Deps.sh
++open TCP,UDP ports on iptables
+
+
+
+
 ## License
 
 The MIT License
