@@ -3,6 +3,7 @@
 
 #include <map>
 #include <list>
+#include <cstring>
 #include <boost/shared_ptr.hpp>
 
 #include "logger.h"
